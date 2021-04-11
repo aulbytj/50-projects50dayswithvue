@@ -1,5 +1,20 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+<template>
+  <ExpandingCards />
+</template>
 
+<script>
+
+import ExpandingCards from './components/ExpandingCards.vue'
+
+export default {
+  name: "App",
+  components: {
+    ExpandingCards
+  }
+};
+</script>
+
+<style lang="scss">
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -21,3 +36,4 @@
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
 }
+</style>
