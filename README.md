@@ -79,11 +79,11 @@ This is the 50 Projects in 50 Days, where as i will build 50 HTML, CSS and Javas
 
 <h3 align="center"> Expanding Cards Project</h3>
 <p>
-  <a href="https://expanding-cards.vercel.app/">
+  <a href="https://vue-expanding-cards.netlify.app/">
     <img src="src/images/Screenshot-expanding-cards.png" alt="Screenshot">
   </a>
   <p align="center">
-    <a href="https://expanding-cards.vercel.app/"><strong>View Demo »</strong></a>
+    <a href="https://vue-expanding-cards.netlify.app/"><strong>View Demo »</strong></a>
   </p>
 </p>
 
